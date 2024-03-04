@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/2ae0dac4-f6cd-44e9-a323-5c19a94776e3/resourceGroups/az-resource-group/providers/Microsoft.Web/sites/az-webapp-vscode-deploy"
+}
